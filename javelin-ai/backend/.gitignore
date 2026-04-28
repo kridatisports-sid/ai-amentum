@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+firebase-credentials.json
+tmp/uploads/*
+tmp/frames/*
+tmp/outputs/*
+tmp/pdfs/*
+!tmp/.gitkeep
+!tmp/uploads/.gitkeep
+!tmp/frames/.gitkeep
+!tmp/outputs/.gitkeep
+!tmp/pdfs/.gitkeep
