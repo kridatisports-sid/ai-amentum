@@ -22,3 +22,5 @@ reportlab==4.2.0
 # Async utilities
 asyncio-throttle==1.0.2
 python-dotenv==1.0.1
+
+setuptools>=69.0.0
